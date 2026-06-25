@@ -1,0 +1,6 @@
+{
+  "name": "Lookout",
+  "description": "Lookout is a multimodal 'point-and-understand' assistant designed to identify unfamiliar objects, appliance panels, or foreign-language signs with strict safety guardrails, uncertainty metrics, and a built-in test-suite evaluation tab.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
