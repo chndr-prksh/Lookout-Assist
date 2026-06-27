@@ -78,7 +78,7 @@ Open [http://localhost:3000](http://localhost:3000) in your web browser.
 ---
 
 ## 🖼️ User Interface
-Below is a conceptual preview of Lookout's minimalist, high-density dashboard layouts.
+Below is a conceptual preview of Lookout's minimalist, high-density dashboard layouts..
 
 ### 1. Point-and-Understand Assistant
 ```
